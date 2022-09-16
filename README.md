@@ -6,7 +6,7 @@ The purpose of this space it to track the work being done towards refining the '
 
 Please see the tabs at the top for the collaborative spaces, where you'll find information on:
 * work to date (wiki tab)
-* next steps (actions tab)
+* next steps (actions tab - to be configured)
 
 ## Checklist for using this space:
 1) If you do not have a GitHub account, you will need to make one: https://github.com/join
