@@ -1,6 +1,12 @@
-# collaborative_working
+# AtLAST 'Our Galaxy' collaborative workspace
 
-This is a template work space for AtLAST working group collaboration.
+The purpose of this space it to track the work being done towards refining the 'Milky Way and friends' (i.e. Magellanic clouds) science cases for the AtLAST telescope design study.
+
+## Table of contents
+
+Please see the tabs at the top for the collaborative spaces, where you'll find information on:
+* work to date (wiki tab)
+* next steps (actions tab)
 
 ## Checklist for using this space:
 1) If you do not have a GitHub account, you will need to make one: https://github.com/join
